@@ -15,7 +15,7 @@ cd ACHR-Ubuntu
 chmod +x install.sh
 ```
 ```
-sudo apt-get install dos2unix
+apt-get install dos2unix
 ```
 ```
 dos2unix install.sh
